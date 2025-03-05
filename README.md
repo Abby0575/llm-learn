@@ -8,6 +8,7 @@ b站：范仁义-AI编程：https://www.bilibili.com/video/BV1nL4y1j7hA?spm_id_f
   1. Zero-Hot
   2. Word2Vec
   3. WordPiece
-  4. BFE
+     wordPiece的token分数计算：
+  5. BFE
 2. Bert模型
 
