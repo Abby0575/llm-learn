@@ -7,8 +7,9 @@ b站：范仁义-AI编程：https://www.bilibili.com/video/BV1nL4y1j7hA?spm_id_f
 词向量：四种词向量表示方式：  
   1. Zero-Hot
   2. Word2Vec
-  3. WordPiece  
-     wordPiece的token分数计算：
+  3. WordPiece
+     WordPiece构建词汇表的方式  
+     WordPiece的token分数计算：
   5. BFE
 2. Bert模型
 
