@@ -3,4 +3,5 @@
 一、Transformer架构
 1. 注意力机制
    (1) 注意力机制的基本原理和计算公式
+   b站范仁义https://www.bilibili.com/video/BV1nL4y1j7hA?spm_id_from=333.788.videopod.sections&vd_source=6ae59bbd574563290e3b85bc1e33e572
 
