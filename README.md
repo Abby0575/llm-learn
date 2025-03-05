@@ -11,6 +11,6 @@ b站：范仁义-AI编程：https://www.bilibili.com/video/BV1nL4y1j7hA?spm_id_f
      WordPiece构建词汇表的方式  
      WordPiece的token分数计算：
   5. BFE
-2. Bert模型
+2. Bert模型  
 b站：骰子AI:https://www.bilibili.com/video/BV1BF411M7mH?spm_id_from=333.788.videopod.episodes&vd_source=6ae59bbd574563290e3b85bc1e33e572&p=2  
 
